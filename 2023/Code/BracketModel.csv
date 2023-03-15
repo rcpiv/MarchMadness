@@ -1,0 +1,2279 @@
+Name_A,Name_B,Pred
+Alabama,Arizona,0.528262807
+Alabama,Arizona St,0.870355473
+Alabama,Arkansas,0.695762306
+Alabama,Auburn,0.700934512
+Alabama,Baylor,0.625471354
+Alabama,Boise St,0.811617535
+Alabama,Col Charleston,0.851561385
+Alabama,Colgate,0.8431398
+Alabama,Connecticut,0.499680054
+Alabama,Creighton,0.586451758
+Alabama,Drake,0.843948619
+Alabama,Duke,0.614923667
+Alabama,F Dickinson,0.926724139
+Alabama,FL Atlantic,0.732310369
+Alabama,Furman,0.842473599
+Alabama,Gonzaga,0.554203732
+Alabama,Grand Canyon,0.881487906
+Alabama,Houston,0.417940943
+Alabama,Howard,0.907052041
+Alabama,Illinois,0.752830404
+Alabama,Indiana,0.671558413
+Alabama,Iona,0.842786735
+Alabama,Iowa,0.741688609
+Alabama,Iowa St,0.710717312
+Alabama,Kansas,0.593765669
+Alabama,Kansas St,0.743764189
+Alabama,Kennesaw,0.838608882
+Alabama,Kent,0.845975031
+Alabama,Kentucky,0.703271723
+Alabama,Lafayette,0.880613569
+Alabama,Marquette,0.663894978
+Alabama,Maryland,0.718530294
+Alabama,Memphis,0.680108432
+Alabama,Miami FL,0.665441293
+Alabama,Michigan St,0.705949538
+Alabama,Mississippi St,0.829714293
+Alabama,Missouri,0.780439573
+Alabama,Montana St,0.879493839
+Alabama,N Kentucky,0.868422613
+Alabama,NC State,0.84226112
+Alabama,Nevada,0.881229936
+Alabama,Northwestern,0.725765192
+Alabama,Oral Roberts,0.850754175
+Alabama,Penn St,0.780227858
+Alabama,Pittsburgh,0.881873435
+Alabama,Princeton,0.881824433
+Alabama,Providence,0.847036486
+Alabama,Purdue,0.533011942
+Alabama,San Diego St,0.592735529
+Alabama,UC Santa Barbara,0.870083739
+Alabama,SE Missouri St,0.926724139
+Alabama,St Mary's CA,0.57812003
+Alabama,TAM C. Christi,0.879469551
+Alabama,TCU,0.711423762
+Alabama,Tennessee,0.519777889
+Alabama,Texas,0.452445941
+Alabama,Texas A&M,0.764770368
+Alabama,TX Southern,0.929200774
+Alabama,UCLA,0.433836604
+Alabama,UNC Asheville,0.866235661
+Alabama,USC,0.807343922
+Alabama,Utah St,0.729733756
+Alabama,VCU,0.8495851
+Alabama,Vermont,0.876252554
+Alabama,Virginia,0.676469284
+Alabama,West Virginia,0.752679527
+Alabama,Xavier,0.693563821
+Arizona,Arizona St,0.811059555
+Arizona,Arkansas,0.599390384
+Arizona,Auburn,0.619183764
+Arizona,Baylor,0.570306679
+Arizona,Boise St,0.694184285
+Arizona,Col Charleston,0.685844287
+Arizona,Colgate,0.84436926
+Arizona,Connecticut,0.407564549
+Arizona,Creighton,0.592850513
+Arizona,Drake,0.781755328
+Arizona,Duke,0.548803213
+Arizona,F Dickinson,0.835908647
+Arizona,FL Atlantic,0.636312628
+Arizona,Furman,0.782425002
+Arizona,Gonzaga,0.408277849
+Arizona,Grand Canyon,0.883995021
+Arizona,Houston,0.311689085
+Arizona,Howard,0.885404951
+Arizona,Illinois,0.630388434
+Arizona,Indiana,0.549827784
+Arizona,Iona,0.782677796
+Arizona,Iowa,0.669961461
+Arizona,Iowa St,0.635324355
+Arizona,Kansas,0.45904933
+Arizona,Kansas St,0.609650946
+Arizona,Kennesaw,0.860010591
+Arizona,Kent,0.789476141
+Arizona,Kentucky,0.634921676
+Arizona,Lafayette,0.880613569
+Arizona,Marquette,0.585420074
+Arizona,Maryland,0.691506674
+Arizona,Memphis,0.640990041
+Arizona,Miami FL,0.623794014
+Arizona,Michigan St,0.698571735
+Arizona,Mississippi St,0.772209983
+Arizona,Missouri,0.665283314
+Arizona,Montana St,0.864150605
+Arizona,N Kentucky,0.879469551
+Arizona,NC State,0.75222856
+Arizona,Nevada,0.808812809
+Arizona,Northwestern,0.69868566
+Arizona,Oral Roberts,0.678720097
+Arizona,Penn St,0.747347753
+Arizona,Pittsburgh,0.778704925
+Arizona,Princeton,0.860130812
+Arizona,Providence,0.760664372
+Arizona,Purdue,0.499752105
+Arizona,San Diego St,0.549386712
+Arizona,UC Santa Barbara,0.853369732
+Arizona,SE Missouri St,0.909345307
+Arizona,St Mary's CA,0.501688642
+Arizona,TAM C. Christi,0.870780611
+Arizona,TCU,0.624711381
+Arizona,Tennessee,0.497861142
+Arizona,Texas,0.435159413
+Arizona,Texas A&M,0.593764497
+Arizona,TX Southern,0.929200774
+Arizona,UCLA,0.407550471
+Arizona,UNC Asheville,0.87422468
+Arizona,USC,0.696393451
+Arizona,Utah St,0.666370187
+Arizona,VCU,0.806179776
+Arizona,Vermont,0.870570139
+Arizona,Virginia,0.507003617
+Arizona,West Virginia,0.701480262
+Arizona,Xavier,0.482765289
+Arizona St,Arkansas,0.284214338
+Arizona St,Auburn,0.304059929
+Arizona St,Baylor,0.235958704
+Arizona St,Boise St,0.370699052
+Arizona St,Col Charleston,0.583600792
+Arizona St,Colgate,0.477486409
+Arizona St,Connecticut,0.149476585
+Arizona St,Creighton,0.253403124
+Arizona St,Drake,0.547128973
+Arizona St,Duke,0.213856579
+Arizona St,F Dickinson,0.76529644
+Arizona St,FL Atlantic,0.333197209
+Arizona St,Furman,0.502632756
+Arizona St,Gonzaga,0.136524234
+Arizona St,Grand Canyon,0.614165952
+Arizona St,Houston,0.108629389
+Arizona St,Howard,0.760683013
+Arizona St,Illinois,0.308384085
+Arizona St,Indiana,0.258863486
+Arizona St,Iona,0.484852503
+Arizona St,Iowa,0.344244328
+Arizona St,Iowa St,0.321933415
+Arizona St,Kansas,0.127023827
+Arizona St,Kansas St,0.32685902
+Arizona St,Kennesaw,0.667752049
+Arizona St,Kent,0.523382159
+Arizona St,Kentucky,0.2510915
+Arizona St,Lafayette,0.716893482
+Arizona St,Marquette,0.223003544
+Arizona St,Maryland,0.352453255
+Arizona St,Memphis,0.259781278
+Arizona St,Miami FL,0.30751912
+Arizona St,Michigan St,0.392012407
+Arizona St,Mississippi St,0.386908785
+Arizona St,Missouri,0.439507233
+Arizona St,Montana St,0.626286817
+Arizona St,N Kentucky,0.685873853
+Arizona St,NC State,0.412670002
+Arizona St,Nevada,0.550247916
+Arizona St,Northwestern,0.395454072
+Arizona St,Oral Roberts,0.505354399
+Arizona St,Penn St,0.343954429
+Arizona St,Pittsburgh,0.540972808
+Arizona St,Princeton,0.617750346
+Arizona St,Providence,0.34708928
+Arizona St,Purdue,0.112598995
+Arizona St,San Diego St,0.223423231
+Arizona St,UC Santa Barbara,0.573334354
+Arizona St,SE Missouri St,0.787093032
+Arizona St,St Mary's CA,0.23538279
+Arizona St,TAM C. Christi,0.629564462
+Arizona St,TCU,0.292976071
+Arizona St,Tennessee,0.24473969
+Arizona St,Texas,0.119799757
+Arizona St,Texas A&M,0.353163214
+Arizona St,TX Southern,0.819227229
+Arizona St,UCLA,0.138884354
+Arizona St,UNC Asheville,0.680725328
+Arizona St,USC,0.347266357
+Arizona St,Utah St,0.275010746
+Arizona St,VCU,0.491073553
+Arizona St,Vermont,0.596382273
+Arizona St,Virginia,0.269385202
+Arizona St,West Virginia,0.33737463
+Arizona St,Xavier,0.268818146
+Arkansas,Auburn,0.486781846
+Arkansas,Baylor,0.385705723
+Arkansas,Boise St,0.516670919
+Arkansas,Col Charleston,0.553288214
+Arkansas,Colgate,0.663413066
+Arkansas,Connecticut,0.33248294
+Arkansas,Creighton,0.461390416
+Arkansas,Drake,0.556892659
+Arkansas,Duke,0.382217101
+Arkansas,F Dickinson,0.822892705
+Arkansas,FL Atlantic,0.493309252
+Arkansas,Furman,0.634357019
+Arkansas,Gonzaga,0.25721343
+Arkansas,Grand Canyon,0.756487083
+Arkansas,Houston,0.113686328
+Arkansas,Howard,0.808972673
+Arkansas,Illinois,0.467259016
+Arkansas,Indiana,0.577561411
+Arkansas,Iona,0.602234215
+Arkansas,Iowa,0.565616314
+Arkansas,Iowa St,0.533427429
+Arkansas,Kansas,0.311433564
+Arkansas,Kansas St,0.523300585
+Arkansas,Kennesaw,0.76025483
+Arkansas,Kent,0.589240543
+Arkansas,Kentucky,0.491114226
+Arkansas,Lafayette,0.756122244
+Arkansas,Marquette,0.391962501
+Arkansas,Maryland,0.566736848
+Arkansas,Memphis,0.426449038
+Arkansas,Miami FL,0.486640965
+Arkansas,Michigan St,0.524054623
+Arkansas,Mississippi St,0.575197761
+Arkansas,Missouri,0.544734166
+Arkansas,Montana St,0.691395402
+Arkansas,N Kentucky,0.793410499
+Arkansas,NC State,0.57945361
+Arkansas,Nevada,0.693549181
+Arkansas,Northwestern,0.595188644
+Arkansas,Oral Roberts,0.592325302
+Arkansas,Penn St,0.599896904
+Arkansas,Pittsburgh,0.664168055
+Arkansas,Princeton,0.718006506
+Arkansas,Providence,0.586043001
+Arkansas,Purdue,0.265301426
+Arkansas,San Diego St,0.48846768
+Arkansas,UC Santa Barbara,0.732714991
+Arkansas,SE Missouri St,0.818308134
+Arkansas,St Mary's CA,0.371674256
+Arkansas,TAM C. Christi,0.805744993
+Arkansas,TCU,0.543263834
+Arkansas,Tennessee,0.42855043
+Arkansas,Texas,0.274857358
+Arkansas,Texas A&M,0.537287934
+Arkansas,TX Southern,0.856590728
+Arkansas,UCLA,0.269913246
+Arkansas,UNC Asheville,0.797610431
+Arkansas,USC,0.584666961
+Arkansas,Utah St,0.501861585
+Arkansas,VCU,0.563639145
+Arkansas,Vermont,0.73567988
+Arkansas,Virginia,0.486652277
+Arkansas,West Virginia,0.563941876
+Arkansas,Xavier,0.432829535
+Auburn,Baylor,0.32837015
+Auburn,Boise St,0.512229422
+Auburn,Col Charleston,0.592043449
+Auburn,Colgate,0.680243942
+Auburn,Connecticut,0.294809114
+Auburn,Creighton,0.37997552
+Auburn,Drake,0.575872486
+Auburn,Duke,0.422392685
+Auburn,F Dickinson,0.790226838
+Auburn,FL Atlantic,0.474435402
+Auburn,Furman,0.640530802
+Auburn,Gonzaga,0.272346429
+Auburn,Grand Canyon,0.70614219
+Auburn,Houston,0.104841087
+Auburn,Howard,0.809398372
+Auburn,Illinois,0.465121029
+Auburn,Indiana,0.410835994
+Auburn,Iona,0.583112985
+Auburn,Iowa,0.547793556
+Auburn,Iowa St,0.547183088
+Auburn,Kansas,0.276191038
+Auburn,Kansas St,0.523692394
+Auburn,Kennesaw,0.748063157
+Auburn,Kent,0.614170903
+Auburn,Kentucky,0.466391524
+Auburn,Lafayette,0.800751818
+Auburn,Marquette,0.402947001
+Auburn,Maryland,0.493663993
+Auburn,Memphis,0.428906987
+Auburn,Miami FL,0.490279523
+Auburn,Michigan St,0.487835279
+Auburn,Mississippi St,0.571053142
+Auburn,Missouri,0.503659405
+Auburn,Montana St,0.683389796
+Auburn,N Kentucky,0.81053296
+Auburn,NC State,0.538401308
+Auburn,Nevada,0.662547104
+Auburn,Northwestern,0.584301214
+Auburn,Oral Roberts,0.626273902
+Auburn,Penn St,0.572777005
+Auburn,Pittsburgh,0.658136012
+Auburn,Princeton,0.728077182
+Auburn,Providence,0.561976593
+Auburn,Purdue,0.261115281
+Auburn,San Diego St,0.420983485
+Auburn,UC Santa Barbara,0.696323336
+Auburn,SE Missouri St,0.795805347
+Auburn,St Mary's CA,0.382767348
+Auburn,TAM C. Christi,0.797964465
+Auburn,TCU,0.514635416
+Auburn,Tennessee,0.337936323
+Auburn,Texas,0.28975435
+Auburn,Texas A&M,0.479209896
+Auburn,TX Southern,0.821714102
+Auburn,UCLA,0.249170209
+Auburn,UNC Asheville,0.794262942
+Auburn,USC,0.598823805
+Auburn,Utah St,0.500020652
+Auburn,VCU,0.567578527
+Auburn,Vermont,0.73782086
+Auburn,Virginia,0.398547794
+Auburn,West Virginia,0.543375583
+Auburn,Xavier,0.386825763
+Baylor,Boise St,0.618116975
+Baylor,Col Charleston,0.674121337
+Baylor,Colgate,0.761201204
+Baylor,Connecticut,0.385218163
+Baylor,Creighton,0.513116174
+Baylor,Drake,0.582837236
+Baylor,Duke,0.460696116
+Baylor,F Dickinson,0.873794263
+Baylor,FL Atlantic,0.583757304
+Baylor,Furman,0.705162052
+Baylor,Gonzaga,0.291087439
+Baylor,Grand Canyon,0.857197152
+Baylor,Houston,0.20393762
+Baylor,Howard,0.860509005
+Baylor,Illinois,0.486211557
+Baylor,Indiana,0.545795427
+Baylor,Iona,0.680779434
+Baylor,Iowa,0.539969528
+Baylor,Iowa St,0.565767051
+Baylor,Kansas,0.329082541
+Baylor,Kansas St,0.603524145
+Baylor,Kennesaw,0.843886306
+Baylor,Kent,0.683629311
+Baylor,Kentucky,0.518978686
+Baylor,Lafayette,0.824486186
+Baylor,Marquette,0.513680728
+Baylor,Maryland,0.532855085
+Baylor,Memphis,0.466860462
+Baylor,Miami FL,0.568711114
+Baylor,Michigan St,0.572952897
+Baylor,Mississippi St,0.638930621
+Baylor,Missouri,0.633783331
+Baylor,Montana St,0.858044262
+Baylor,N Kentucky,0.846873423
+Baylor,NC State,0.672618777
+Baylor,Nevada,0.748468043
+Baylor,Northwestern,0.614236634
+Baylor,Oral Roberts,0.65712559
+Baylor,Penn St,0.668680878
+Baylor,Pittsburgh,0.735760257
+Baylor,Princeton,0.858101294
+Baylor,Providence,0.631680023
+Baylor,Purdue,0.30151467
+Baylor,San Diego St,0.465984631
+Baylor,UC Santa Barbara,0.834556563
+Baylor,SE Missouri St,0.883209214
+Baylor,St Mary's CA,0.41430678
+Baylor,TAM C. Christi,0.849091272
+Baylor,TCU,0.57989274
+Baylor,Tennessee,0.397259742
+Baylor,Texas,0.326489037
+Baylor,Texas A&M,0.577658664
+Baylor,TX Southern,0.915264297
+Baylor,UCLA,0.363423713
+Baylor,UNC Asheville,0.836309747
+Baylor,USC,0.614883798
+Baylor,Utah St,0.578285794
+Baylor,VCU,0.597861242
+Baylor,Vermont,0.85254779
+Baylor,Virginia,0.442251946
+Baylor,West Virginia,0.58933663
+Baylor,Xavier,0.532643858
+Boise St,Col Charleston,0.550665059
+Boise St,Colgate,0.548833203
+Boise St,Connecticut,0.250401218
+Boise St,Creighton,0.29845343
+Boise St,Drake,0.515970026
+Boise St,Duke,0.27964803
+Boise St,F Dickinson,0.838671775
+Boise St,FL Atlantic,0.37098957
+Boise St,Furman,0.560498064
+Boise St,Gonzaga,0.216552787
+Boise St,Grand Canyon,0.63607105
+Boise St,Houston,0.100516593
+Boise St,Howard,0.794322872
+Boise St,Illinois,0.31849531
+Boise St,Indiana,0.29621264
+Boise St,Iona,0.550091206
+Boise St,Iowa,0.464038245
+Boise St,Iowa St,0.464858707
+Boise St,Kansas,0.229960431
+Boise St,Kansas St,0.441054665
+Boise St,Kennesaw,0.707737496
+Boise St,Kent,0.5211358
+Boise St,Kentucky,0.345805917
+Boise St,Lafayette,0.773840641
+Boise St,Marquette,0.262977092
+Boise St,Maryland,0.391886053
+Boise St,Memphis,0.377735834
+Boise St,Miami FL,0.444388757
+Boise St,Michigan St,0.426498428
+Boise St,Mississippi St,0.392927157
+Boise St,Missouri,0.403148224
+Boise St,Montana St,0.724941453
+Boise St,N Kentucky,0.721015397
+Boise St,NC State,0.458472545
+Boise St,Nevada,0.610987692
+Boise St,Northwestern,0.417799021
+Boise St,Oral Roberts,0.504013093
+Boise St,Penn St,0.450559537
+Boise St,Pittsburgh,0.568600035
+Boise St,Princeton,0.682255015
+Boise St,Providence,0.426112908
+Boise St,Purdue,0.188413354
+Boise St,San Diego St,0.324177941
+Boise St,UC Santa Barbara,0.675932025
+Boise St,SE Missouri St,0.84421591
+Boise St,St Mary's CA,0.297250627
+Boise St,TAM C. Christi,0.778732435
+Boise St,TCU,0.371950626
+Boise St,Tennessee,0.317719344
+Boise St,Texas,0.242218779
+Boise St,Texas A&M,0.373250357
+Boise St,TX Southern,0.884178669
+Boise St,UCLA,0.227867807
+Boise St,UNC Asheville,0.723608311
+Boise St,USC,0.443238094
+Boise St,Utah St,0.399371456
+Boise St,VCU,0.532184535
+Boise St,Vermont,0.661146205
+Boise St,Virginia,0.425253314
+Boise St,West Virginia,0.501143736
+Boise St,Xavier,0.389419438
+Col Charleston,Colgate,0.495977382
+Col Charleston,Connecticut,0.23875527
+Col Charleston,Creighton,0.333935907
+Col Charleston,Drake,0.484134412
+Col Charleston,Duke,0.400277413
+Col Charleston,F Dickinson,0.889997138
+Col Charleston,FL Atlantic,0.325690276
+Col Charleston,Furman,0.489878005
+Col Charleston,Gonzaga,0.14622154
+Col Charleston,Grand Canyon,0.508750461
+Col Charleston,Houston,0.120944919
+Col Charleston,Howard,0.760039265
+Col Charleston,Illinois,0.314393176
+Col Charleston,Indiana,0.34016422
+Col Charleston,Iona,0.396229756
+Col Charleston,Iowa,0.447960696
+Col Charleston,Iowa St,0.400479908
+Col Charleston,Kansas,0.226049485
+Col Charleston,Kansas St,0.305481934
+Col Charleston,Kennesaw,0.687405049
+Col Charleston,Kent,0.408517421
+Col Charleston,Kentucky,0.314743144
+Col Charleston,Lafayette,0.78189724
+Col Charleston,Marquette,0.220228045
+Col Charleston,Maryland,0.357414513
+Col Charleston,Memphis,0.388437288
+Col Charleston,Miami FL,0.419438946
+Col Charleston,Michigan St,0.276527171
+Col Charleston,Mississippi St,0.393027082
+Col Charleston,Missouri,0.410293083
+Col Charleston,Montana St,0.547591896
+Col Charleston,N Kentucky,0.708074961
+Col Charleston,NC State,0.412740435
+Col Charleston,Nevada,0.46416291
+Col Charleston,Northwestern,0.340822801
+Col Charleston,Oral Roberts,0.378259449
+Col Charleston,Penn St,0.353364032
+Col Charleston,Pittsburgh,0.491858235
+Col Charleston,Princeton,0.57768177
+Col Charleston,Providence,0.365389505
+Col Charleston,Purdue,0.15805272
+Col Charleston,San Diego St,0.304329443
+Col Charleston,UC Santa Barbara,0.537419424
+Col Charleston,SE Missouri St,0.890994527
+Col Charleston,St Mary's CA,0.338697015
+Col Charleston,TAM C. Christi,0.740185129
+Col Charleston,TCU,0.30171622
+Col Charleston,Tennessee,0.226167776
+Col Charleston,Texas,0.229868983
+Col Charleston,Texas A&M,0.326899526
+Col Charleston,TX Southern,0.891362803
+Col Charleston,UCLA,0.157984287
+Col Charleston,UNC Asheville,0.731341656
+Col Charleston,USC,0.382797306
+Col Charleston,Utah St,0.367280941
+Col Charleston,VCU,0.443178831
+Col Charleston,Vermont,0.660139997
+Col Charleston,Virginia,0.393691933
+Col Charleston,West Virginia,0.420306606
+Col Charleston,Xavier,0.293102145
+Colgate,Connecticut,0.127910578
+Colgate,Creighton,0.205480826
+Colgate,Drake,0.323107614
+Colgate,Duke,0.14911519
+Colgate,F Dickinson,0.823367386
+Colgate,FL Atlantic,0.233057887
+Colgate,Furman,0.383875019
+Colgate,Gonzaga,0.140842123
+Colgate,Grand Canyon,0.475342943
+Colgate,Houston,0.119366193
+Colgate,Howard,0.760666546
+Colgate,Illinois,0.275534711
+Colgate,Indiana,0.146191332
+Colgate,Iona,0.350183086
+Colgate,Iowa,0.333302446
+Colgate,Iowa St,0.274417272
+Colgate,Kansas,0.155229074
+Colgate,Kansas St,0.1957159
+Colgate,Kennesaw,0.660466747
+Colgate,Kent,0.400855359
+Colgate,Kentucky,0.137113278
+Colgate,Lafayette,0.726807934
+Colgate,Marquette,0.173924333
+Colgate,Maryland,0.306187662
+Colgate,Memphis,0.227439463
+Colgate,Miami FL,0.218844827
+Colgate,Michigan St,0.385185611
+Colgate,Mississippi St,0.419888895
+Colgate,Missouri,0.309942051
+Colgate,Montana St,0.616786207
+Colgate,N Kentucky,0.692375897
+Colgate,NC State,0.305069022
+Colgate,Nevada,0.386955905
+Colgate,Northwestern,0.298866031
+Colgate,Oral Roberts,0.295330395
+Colgate,Penn St,0.358492288
+Colgate,Pittsburgh,0.380713498
+Colgate,Princeton,0.56358981
+Colgate,Providence,0.28930597
+Colgate,Purdue,0.118559175
+Colgate,San Diego St,0.156314562
+Colgate,UC Santa Barbara,0.455757065
+Colgate,SE Missouri St,0.770795022
+Colgate,St Mary's CA,0.143287918
+Colgate,TAM C. Christi,0.686467178
+Colgate,TCU,0.201823358
+Colgate,Tennessee,0.138437922
+Colgate,Texas,0.129649292
+Colgate,Texas A&M,0.182790516
+Colgate,TX Southern,0.851212968
+Colgate,UCLA,0.114945686
+Colgate,UNC Asheville,0.626008385
+Colgate,USC,0.319546092
+Colgate,Utah St,0.264789317
+Colgate,VCU,0.358538957
+Colgate,Vermont,0.636429678
+Colgate,Virginia,0.215462932
+Colgate,West Virginia,0.297228487
+Colgate,Xavier,0.173429002
+Connecticut,Creighton,0.580935057
+Connecticut,Drake,0.721721744
+Connecticut,Duke,0.493915717
+Connecticut,F Dickinson,0.907052041
+Connecticut,FL Atlantic,0.646486653
+Connecticut,Furman,0.81297462
+Connecticut,Gonzaga,0.434881171
+Connecticut,Grand Canyon,0.857110308
+Connecticut,Houston,0.266729378
+Connecticut,Howard,0.887406113
+Connecticut,Illinois,0.588383164
+Connecticut,Indiana,0.549293193
+Connecticut,Iona,0.746923538
+Connecticut,Iowa,0.650198607
+Connecticut,Iowa St,0.634091319
+Connecticut,Kansas,0.42338732
+Connecticut,Kansas St,0.674715342
+Connecticut,Kennesaw,0.861816162
+Connecticut,Kent,0.744949697
+Connecticut,Kentucky,0.59279144
+Connecticut,Lafayette,0.880613569
+Connecticut,Marquette,0.539232577
+Connecticut,Maryland,0.674267952
+Connecticut,Memphis,0.610838083
+Connecticut,Miami FL,0.615367766
+Connecticut,Michigan St,0.66357078
+Connecticut,Mississippi St,0.744010627
+Connecticut,Missouri,0.723672069
+Connecticut,Montana St,0.863962646
+Connecticut,N Kentucky,0.863256814
+Connecticut,NC State,0.700759649
+Connecticut,Nevada,0.751254572
+Connecticut,Northwestern,0.687219433
+Connecticut,Oral Roberts,0.672168817
+Connecticut,Penn St,0.724219488
+Connecticut,Pittsburgh,0.74684649
+Connecticut,Princeton,0.86890116
+Connecticut,Providence,0.717787025
+Connecticut,Purdue,0.422376004
+Connecticut,San Diego St,0.512648047
+Connecticut,UC Santa Barbara,0.868543108
+Connecticut,SE Missouri St,0.905991176
+Connecticut,St Mary's CA,0.538556031
+Connecticut,TAM C. Christi,0.856243492
+Connecticut,TCU,0.640634814
+Connecticut,Tennessee,0.412419865
+Connecticut,Texas,0.483321864
+Connecticut,Texas A&M,0.665171451
+Connecticut,TX Southern,0.929200774
+Connecticut,UCLA,0.374221425
+Connecticut,UNC Asheville,0.86254036
+Connecticut,USC,0.68022753
+Connecticut,Utah St,0.65168521
+Connecticut,VCU,0.733447051
+Connecticut,Vermont,0.865256516
+Connecticut,Virginia,0.529028505
+Connecticut,West Virginia,0.668736031
+Connecticut,Xavier,0.546165816
+Creighton,Drake,0.628184566
+Creighton,Duke,0.460269267
+Creighton,F Dickinson,0.858157222
+Creighton,FL Atlantic,0.659745732
+Creighton,Furman,0.648765016
+Creighton,Gonzaga,0.30826548
+Creighton,Grand Canyon,0.795072821
+Creighton,Houston,0.260589301
+Creighton,Howard,0.881528091
+Creighton,Illinois,0.56166088
+Creighton,Indiana,0.41763935
+Creighton,Iona,0.659371788
+Creighton,Iowa,0.557876503
+Creighton,Iowa St,0.586095816
+Creighton,Kansas,0.320415029
+Creighton,Kansas St,0.586616278
+Creighton,Kennesaw,0.747864084
+Creighton,Kent,0.682683453
+Creighton,Kentucky,0.514672079
+Creighton,Lafayette,0.851111466
+Creighton,Marquette,0.541357221
+Creighton,Maryland,0.515809252
+Creighton,Memphis,0.457243351
+Creighton,Miami FL,0.468272009
+Creighton,Michigan St,0.525659232
+Creighton,Mississippi St,0.631047125
+Creighton,Missouri,0.596605168
+Creighton,Montana St,0.779802655
+Creighton,N Kentucky,0.869194862
+Creighton,NC State,0.61503766
+Creighton,Nevada,0.714968869
+Creighton,Northwestern,0.699563342
+Creighton,Oral Roberts,0.682137919
+Creighton,Penn St,0.60152193
+Creighton,Pittsburgh,0.723098339
+Creighton,Princeton,0.818376801
+Creighton,Providence,0.59228778
+Creighton,Purdue,0.292145223
+Creighton,San Diego St,0.390517404
+Creighton,UC Santa Barbara,0.782893756
+Creighton,SE Missouri St,0.879705719
+Creighton,St Mary's CA,0.349563526
+Creighton,TAM C. Christi,0.858044262
+Creighton,TCU,0.557296236
+Creighton,Tennessee,0.377276702
+Creighton,Texas,0.329766935
+Creighton,Texas A&M,0.542938989
+Creighton,TX Southern,0.907052041
+Creighton,UCLA,0.384578042
+Creighton,UNC Asheville,0.790226077
+Creighton,USC,0.639173122
+Creighton,Utah St,0.532812367
+Creighton,VCU,0.699296521
+Creighton,Vermont,0.835641928
+Creighton,Virginia,0.453711653
+Creighton,West Virginia,0.566338544
+Creighton,Xavier,0.438354385
+Drake,Duke,0.260406459
+Drake,F Dickinson,0.826478963
+Drake,FL Atlantic,0.371644281
+Drake,Furman,0.505862904
+Drake,Gonzaga,0.151831716
+Drake,Grand Canyon,0.669141258
+Drake,Houston,0.12146461
+Drake,Howard,0.819609449
+Drake,Illinois,0.345294557
+Drake,Indiana,0.38030627
+Drake,Iona,0.50699104
+Drake,Iowa,0.402217409
+Drake,Iowa St,0.356454413
+Drake,Kansas,0.208768549
+Drake,Kansas St,0.336027541
+Drake,Kennesaw,0.748006029
+Drake,Kent,0.55115314
+Drake,Kentucky,0.353324196
+Drake,Lafayette,0.793089689
+Drake,Marquette,0.250312791
+Drake,Maryland,0.394626104
+Drake,Memphis,0.347259616
+Drake,Miami FL,0.29823666
+Drake,Michigan St,0.383582939
+Drake,Mississippi St,0.478003809
+Drake,Missouri,0.410866058
+Drake,Montana St,0.6697996
+Drake,N Kentucky,0.761292449
+Drake,NC State,0.405027822
+Drake,Nevada,0.565025098
+Drake,Northwestern,0.523905215
+Drake,Oral Roberts,0.438178643
+Drake,Penn St,0.443519133
+Drake,Pittsburgh,0.624052584
+Drake,Princeton,0.676380311
+Drake,Providence,0.515898574
+Drake,Purdue,0.184464898
+Drake,San Diego St,0.285926134
+Drake,UC Santa Barbara,0.631645005
+Drake,SE Missouri St,0.826478963
+Drake,St Mary's CA,0.241849488
+Drake,TAM C. Christi,0.802684233
+Drake,TCU,0.322503799
+Drake,Tennessee,0.244611502
+Drake,Texas,0.145720879
+Drake,Texas A&M,0.341177563
+Drake,TX Southern,0.889997138
+Drake,UCLA,0.198521379
+Drake,UNC Asheville,0.725475869
+Drake,USC,0.420825438
+Drake,Utah St,0.34659484
+Drake,VCU,0.567654276
+Drake,Vermont,0.646124913
+Drake,Virginia,0.292975891
+Drake,West Virginia,0.359800195
+Drake,Xavier,0.21590268
+Duke,F Dickinson,0.884228917
+Duke,FL Atlantic,0.520263434
+Duke,Furman,0.746045049
+Duke,Gonzaga,0.336908219
+Duke,Grand Canyon,0.809556143
+Duke,Houston,0.252806008
+Duke,Howard,0.883612495
+Duke,Illinois,0.509629933
+Duke,Indiana,0.423926775
+Duke,Iona,0.681378796
+Duke,Iowa,0.581237246
+Duke,Iowa St,0.556890067
+Duke,Kansas,0.392275926
+Duke,Kansas St,0.519445567
+Duke,Kennesaw,0.841709546
+Duke,Kent,0.691980984
+Duke,Kentucky,0.496165718
+Duke,Lafayette,0.834992399
+Duke,Marquette,0.557216864
+Duke,Maryland,0.571166341
+Duke,Memphis,0.522246781
+Duke,Miami FL,0.52274224
+Duke,Michigan St,0.564730513
+Duke,Mississippi St,0.713217056
+Duke,Missouri,0.624265085
+Duke,Montana St,0.816110047
+Duke,N Kentucky,0.872869635
+Duke,NC State,0.631162263
+Duke,Nevada,0.715475789
+Duke,Northwestern,0.607202316
+Duke,Oral Roberts,0.619361061
+Duke,Penn St,0.632047021
+Duke,Pittsburgh,0.740082561
+Duke,Princeton,0.853080188
+Duke,Providence,0.614235361
+Duke,Purdue,0.375966857
+Duke,San Diego St,0.448430503
+Duke,UC Santa Barbara,0.843211601
+Duke,SE Missouri St,0.88412858
+Duke,St Mary's CA,0.415399642
+Duke,TAM C. Christi,0.841527708
+Duke,TCU,0.561370379
+Duke,Tennessee,0.402714075
+Duke,Texas,0.334613395
+Duke,Texas A&M,0.58844582
+Duke,TX Southern,0.929200774
+Duke,UCLA,0.39917811
+Duke,UNC Asheville,0.84688441
+Duke,USC,0.571378279
+Duke,Utah St,0.55964163
+Duke,VCU,0.686263001
+Duke,Vermont,0.842704093
+Duke,Virginia,0.48579242
+Duke,West Virginia,0.585609884
+Duke,Xavier,0.451988376
+F Dickinson,FL Atlantic,0.102623189
+F Dickinson,Furman,0.165587446
+F Dickinson,Gonzaga,0.076133398
+F Dickinson,Grand Canyon,0.179082069
+F Dickinson,Houston,0.075904083
+F Dickinson,Howard,0.264460855
+F Dickinson,Illinois,0.169462735
+F Dickinson,Indiana,0.127335116
+F Dickinson,Iona,0.185523056
+F Dickinson,Iowa,0.15790073
+F Dickinson,Iowa St,0.130892564
+F Dickinson,Kansas,0.128064361
+F Dickinson,Kansas St,0.113825688
+F Dickinson,Kennesaw,0.174301015
+F Dickinson,Kent,0.140223468
+F Dickinson,Kentucky,0.124430479
+F Dickinson,Lafayette,0.286775093
+F Dickinson,Marquette,0.090659226
+F Dickinson,Maryland,0.143250217
+F Dickinson,Memphis,0.137555556
+F Dickinson,Miami FL,0.114805097
+F Dickinson,Michigan St,0.146109893
+F Dickinson,Mississippi St,0.160022339
+F Dickinson,Missouri,0.119268097
+F Dickinson,Montana St,0.175615267
+F Dickinson,N Kentucky,0.220160477
+F Dickinson,NC State,0.16492981
+F Dickinson,Nevada,0.173878042
+F Dickinson,Northwestern,0.12481657
+F Dickinson,Oral Roberts,0.128341018
+F Dickinson,Penn St,0.159862954
+F Dickinson,Pittsburgh,0.174526267
+F Dickinson,Princeton,0.1613832
+F Dickinson,Providence,0.168805187
+F Dickinson,Purdue,0.090371786
+F Dickinson,San Diego St,0.096546818
+F Dickinson,UC Santa Barbara,0.15640324
+F Dickinson,SE Missouri St,0.329510471
+F Dickinson,St Mary's CA,0.110725387
+F Dickinson,TAM C. Christi,0.221412838
+F Dickinson,TCU,0.118395633
+F Dickinson,Tennessee,0.097412741
+F Dickinson,Texas,0.112262226
+F Dickinson,Texas A&M,0.118416492
+F Dickinson,TX Southern,0.420087838
+F Dickinson,UCLA,0.076133398
+F Dickinson,UNC Asheville,0.168299691
+F Dickinson,USC,0.160440057
+F Dickinson,Utah St,0.154938138
+F Dickinson,VCU,0.200940702
+F Dickinson,Vermont,0.167597225
+F Dickinson,Virginia,0.112833617
+F Dickinson,West Virginia,0.179213411
+F Dickinson,Xavier,0.11639115
+FL Atlantic,Furman,0.656815071
+FL Atlantic,Gonzaga,0.263712681
+FL Atlantic,Grand Canyon,0.704416592
+FL Atlantic,Houston,0.148267841
+FL Atlantic,Howard,0.812263786
+FL Atlantic,Illinois,0.378721795
+FL Atlantic,Indiana,0.35230501
+FL Atlantic,Iona,0.506456918
+FL Atlantic,Iowa,0.496599414
+FL Atlantic,Iowa St,0.49256633
+FL Atlantic,Kansas,0.33464559
+FL Atlantic,Kansas St,0.404444422
+FL Atlantic,Kennesaw,0.747334988
+FL Atlantic,Kent,0.524201323
+FL Atlantic,Kentucky,0.379374831
+FL Atlantic,Lafayette,0.811878611
+FL Atlantic,Marquette,0.374390107
+FL Atlantic,Maryland,0.391941821
+FL Atlantic,Memphis,0.487082175
+FL Atlantic,Miami FL,0.532825055
+FL Atlantic,Michigan St,0.381468866
+FL Atlantic,Mississippi St,0.540121866
+FL Atlantic,Missouri,0.497613834
+FL Atlantic,Montana St,0.742972929
+FL Atlantic,N Kentucky,0.789508789
+FL Atlantic,NC State,0.480344322
+FL Atlantic,Nevada,0.6615787
+FL Atlantic,Northwestern,0.479655251
+FL Atlantic,Oral Roberts,0.54988594
+FL Atlantic,Penn St,0.50735408
+FL Atlantic,Pittsburgh,0.678513828
+FL Atlantic,Princeton,0.787533778
+FL Atlantic,Providence,0.505509543
+FL Atlantic,Purdue,0.26206797
+FL Atlantic,San Diego St,0.37024649
+FL Atlantic,UC Santa Barbara,0.722098062
+FL Atlantic,SE Missouri St,0.899380423
+FL Atlantic,St Mary's CA,0.411785167
+FL Atlantic,TAM C. Christi,0.846051626
+FL Atlantic,TCU,0.352032268
+FL Atlantic,Tennessee,0.275313834
+FL Atlantic,Texas,0.378965856
+FL Atlantic,Texas A&M,0.411176033
+FL Atlantic,TX Southern,0.899380423
+FL Atlantic,UCLA,0.224305371
+FL Atlantic,UNC Asheville,0.785076728
+FL Atlantic,USC,0.49680207
+FL Atlantic,Utah St,0.519960106
+FL Atlantic,VCU,0.594948168
+FL Atlantic,Vermont,0.766674691
+FL Atlantic,Virginia,0.484239523
+FL Atlantic,West Virginia,0.521720666
+FL Atlantic,Xavier,0.433673489
+Furman,Gonzaga,0.142670228
+Furman,Grand Canyon,0.507394993
+Furman,Houston,0.129300916
+Furman,Howard,0.756452052
+Furman,Illinois,0.353993818
+Furman,Indiana,0.215474655
+Furman,Iona,0.396217404
+Furman,Iowa,0.333286149
+Furman,Iowa St,0.374519055
+Furman,Kansas,0.155229074
+Furman,Kansas St,0.232852542
+Furman,Kennesaw,0.715741368
+Furman,Kent,0.450877725
+Furman,Kentucky,0.343657006
+Furman,Lafayette,0.735445949
+Furman,Marquette,0.176178721
+Furman,Maryland,0.315799507
+Furman,Memphis,0.264078134
+Furman,Miami FL,0.24694166
+Furman,Michigan St,0.333660093
+Furman,Mississippi St,0.422057427
+Furman,Missouri,0.324902024
+Furman,Montana St,0.621244417
+Furman,N Kentucky,0.721306442
+Furman,NC State,0.321865711
+Furman,Nevada,0.485691342
+Furman,Northwestern,0.365187189
+Furman,Oral Roberts,0.425406517
+Furman,Penn St,0.381233382
+Furman,Pittsburgh,0.491677222
+Furman,Princeton,0.584783112
+Furman,Providence,0.307268049
+Furman,Purdue,0.141931748
+Furman,San Diego St,0.231672766
+Furman,UC Santa Barbara,0.520070449
+Furman,SE Missouri St,0.795223126
+Furman,St Mary's CA,0.219269236
+Furman,TAM C. Christi,0.737785001
+Furman,TCU,0.340483912
+Furman,Tennessee,0.144747486
+Furman,Texas,0.130861268
+Furman,Texas A&M,0.258448788
+Furman,TX Southern,0.891447384
+Furman,UCLA,0.140054822
+Furman,UNC Asheville,0.664758463
+Furman,USC,0.33219377
+Furman,Utah St,0.289344168
+Furman,VCU,0.444016355
+Furman,Vermont,0.608424733
+Furman,Virginia,0.20707705
+Furman,West Virginia,0.378401095
+Furman,Xavier,0.193715237
+Gonzaga,Grand Canyon,0.881487906
+Gonzaga,Houston,0.301787489
+Gonzaga,Howard,0.886846007
+Gonzaga,Illinois,0.643340823
+Gonzaga,Indiana,0.568642595
+Gonzaga,Iona,0.79062955
+Gonzaga,Iowa,0.679184357
+Gonzaga,Iowa St,0.704524071
+Gonzaga,Kansas,0.443330177
+Gonzaga,Kansas St,0.703460795
+Gonzaga,Kennesaw,0.856172017
+Gonzaga,Kent,0.823734699
+Gonzaga,Kentucky,0.645038087
+Gonzaga,Lafayette,0.880613569
+Gonzaga,Marquette,0.64721603
+Gonzaga,Maryland,0.645105646
+Gonzaga,Memphis,0.607520636
+Gonzaga,Miami FL,0.65124506
+Gonzaga,Michigan St,0.707770964
+Gonzaga,Mississippi St,0.764443312
+Gonzaga,Missouri,0.720322974
+Gonzaga,Montana St,0.879705719
+Gonzaga,N Kentucky,0.88412858
+Gonzaga,NC State,0.733554137
+Gonzaga,Nevada,0.802795688
+Gonzaga,Northwestern,0.738478168
+Gonzaga,Oral Roberts,0.780374416
+Gonzaga,Penn St,0.74957571
+Gonzaga,Pittsburgh,0.817717857
+Gonzaga,Princeton,0.881837607
+Gonzaga,Providence,0.783691201
+Gonzaga,Purdue,0.49036655
+Gonzaga,San Diego St,0.524922182
+Gonzaga,UC Santa Barbara,0.86697377
+Gonzaga,SE Missouri St,0.925869453
+Gonzaga,St Mary's CA,0.488088433
+Gonzaga,TAM C. Christi,0.886268836
+Gonzaga,TCU,0.636145271
+Gonzaga,Tennessee,0.496004023
+Gonzaga,Texas,0.405743401
+Gonzaga,Texas A&M,0.63788017
+Gonzaga,TX Southern,0.929200774
+Gonzaga,UCLA,0.410859406
+Gonzaga,UNC Asheville,0.866235661
+Gonzaga,USC,0.733288816
+Gonzaga,Utah St,0.658838903
+Gonzaga,VCU,0.752829564
+Gonzaga,Vermont,0.876746798
+Gonzaga,Virginia,0.634593623
+Gonzaga,West Virginia,0.72353179
+Gonzaga,Xavier,0.649099744
+Grand Canyon,Houston,0.092785164
+Grand Canyon,Howard,0.702789937
+Grand Canyon,Illinois,0.202218154
+Grand Canyon,Indiana,0.131411783
+Grand Canyon,Iona,0.327717116
+Grand Canyon,Iowa,0.212324858
+Grand Canyon,Iowa St,0.164973856
+Grand Canyon,Kansas,0.137881727
+Grand Canyon,Kansas St,0.181750502
+Grand Canyon,Kennesaw,0.625916282
+Grand Canyon,Kent,0.294134801
+Grand Canyon,Kentucky,0.158507543
+Grand Canyon,Lafayette,0.713984769
+Grand Canyon,Marquette,0.114822009
+Grand Canyon,Maryland,0.198832639
+Grand Canyon,Memphis,0.195397709
+Grand Canyon,Miami FL,0.20941672
+Grand Canyon,Michigan St,0.223978279
+Grand Canyon,Mississippi St,0.264807289
+Grand Canyon,Missouri,0.262927533
+Grand Canyon,Montana St,0.655099862
+Grand Canyon,N Kentucky,0.619038336
+Grand Canyon,NC State,0.286182697
+Grand Canyon,Nevada,0.359127099
+Grand Canyon,Northwestern,0.242421833
+Grand Canyon,Oral Roberts,0.278101597
+Grand Canyon,Penn St,0.311519323
+Grand Canyon,Pittsburgh,0.335329383
+Grand Canyon,Princeton,0.524065103
+Grand Canyon,Providence,0.271481238
+Grand Canyon,Purdue,0.117401109
+Grand Canyon,San Diego St,0.129014439
+Grand Canyon,UC Santa Barbara,0.362305584
+Grand Canyon,SE Missouri St,0.746919434
+Grand Canyon,St Mary's CA,0.125500289
+Grand Canyon,TAM C. Christi,0.61108061
+Grand Canyon,TCU,0.171863486
+Grand Canyon,Tennessee,0.132843729
+Grand Canyon,Texas,0.118364547
+Grand Canyon,Texas A&M,0.188949661
+Grand Canyon,TX Southern,0.76397175
+Grand Canyon,UCLA,0.113240948
+Grand Canyon,UNC Asheville,0.582842062
+Grand Canyon,USC,0.305917152
+Grand Canyon,Utah St,0.261819315
+Grand Canyon,VCU,0.300800106
+Grand Canyon,Vermont,0.581086336
+Grand Canyon,Virginia,0.153214652
+Grand Canyon,West Virginia,0.208989894
+Grand Canyon,Xavier,0.176684194
+Houston,Howard,0.8814939
+Houston,Illinois,0.703110333
+Houston,Indiana,0.755547865
+Houston,Iona,0.877754712
+Houston,Iowa,0.84369775
+Houston,Iowa St,0.80952452
+Houston,Kansas,0.592379811
+Houston,Kansas St,0.777196474
+Houston,Kennesaw,0.900471141
+Houston,Kent,0.856147358
+Houston,Kentucky,0.712888816
+Houston,Lafayette,0.880613569
+Houston,Marquette,0.699930845
+Houston,Maryland,0.740425338
+Houston,Memphis,0.720026887
+Houston,Miami FL,0.736120102
+Houston,Michigan St,0.73934155
+Houston,Mississippi St,0.888694465
+Houston,Missouri,0.86810249
+Houston,Montana St,0.903128145
+Houston,N Kentucky,0.901151553
+Houston,NC State,0.870355473
+Houston,Nevada,0.906639902
+Houston,Northwestern,0.871853817
+Houston,Oral Roberts,0.856713549
+Houston,Penn St,0.865452865
+Houston,Pittsburgh,0.906639902
+Houston,Princeton,0.892403709
+Houston,Providence,0.892195045
+Houston,Purdue,0.630720356
+Houston,San Diego St,0.63320607
+Houston,UC Santa Barbara,0.888058058
+Houston,SE Missouri St,0.929200774
+Houston,St Mary's CA,0.733828305
+Houston,TAM C. Christi,0.905991176
+Houston,TCU,0.703890279
+Houston,Tennessee,0.696550146
+Houston,Texas,0.561662886
+Houston,Texas A&M,0.787679608
+Houston,TX Southern,0.929200774
+Houston,UCLA,0.54490453
+Houston,UNC Asheville,0.90213412
+Houston,USC,0.86435266
+Houston,Utah St,0.807102875
+Houston,VCU,0.874030022
+Houston,Vermont,0.905991176
+Houston,Virginia,0.657792759
+Houston,West Virginia,0.848700815
+Houston,Xavier,0.669016635
+Howard,Illinois,0.163839663
+Howard,Indiana,0.128244429
+Howard,Iona,0.172739538
+Howard,Iowa,0.164594695
+Howard,Iowa St,0.137478997
+Howard,Kansas,0.113999133
+Howard,Kansas St,0.112101687
+Howard,Kennesaw,0.269117419
+Howard,Kent,0.167989745
+Howard,Kentucky,0.130445582
+Howard,Lafayette,0.484320999
+Howard,Marquette,0.112729857
+Howard,Maryland,0.157988285
+Howard,Memphis,0.151866566
+Howard,Miami FL,0.116460112
+Howard,Michigan St,0.133621896
+Howard,Mississippi St,0.189433788
+Howard,Missouri,0.126680587
+Howard,Montana St,0.228194979
+Howard,N Kentucky,0.290597467
+Howard,NC State,0.179876452
+Howard,Nevada,0.191202287
+Howard,Northwestern,0.141617902
+Howard,Oral Roberts,0.153652303
+Howard,Penn St,0.18505757
+Howard,Pittsburgh,0.185853902
+Howard,Princeton,0.244791538
+Howard,Providence,0.176370962
+Howard,Purdue,0.109154416
+Howard,San Diego St,0.118416492
+Howard,UC Santa Barbara,0.223258382
+Howard,SE Missouri St,0.437364827
+Howard,St Mary's CA,0.117141195
+Howard,TAM C. Christi,0.372112817
+Howard,TCU,0.130967473
+Howard,Tennessee,0.110671778
+Howard,Texas,0.119378158
+Howard,Texas A&M,0.11990602
+Howard,TX Southern,0.619972547
+Howard,UCLA,0.091964902
+Howard,UNC Asheville,0.275928821
+Howard,USC,0.187136615
+Howard,Utah St,0.171874207
+Howard,VCU,0.188115466
+Howard,Vermont,0.263167799
+Howard,Virginia,0.119355188
+Howard,West Virginia,0.183878681
+Howard,Xavier,0.117320054
+Illinois,Indiana,0.41491279
+Illinois,Iona,0.615658742
+Illinois,Iowa,0.494372757
+Illinois,Iowa St,0.443474449
+Illinois,Kansas,0.276531765
+Illinois,Kansas St,0.520776705
+Illinois,Kennesaw,0.70065971
+Illinois,Kent,0.601131405
+Illinois,Kentucky,0.496594663
+Illinois,Lafayette,0.776600046
+Illinois,Marquette,0.415963761
+Illinois,Maryland,0.492838085
+Illinois,Memphis,0.463424319
+Illinois,Miami FL,0.482262375
+Illinois,Michigan St,0.496072559
+Illinois,Mississippi St,0.588868816
+Illinois,Missouri,0.482103671
+Illinois,Montana St,0.674272451
+Illinois,N Kentucky,0.794942021
+Illinois,NC State,0.599395056
+Illinois,Nevada,0.683067474
+Illinois,Northwestern,0.59114692
+Illinois,Oral Roberts,0.609261179
+Illinois,Penn St,0.605561058
+Illinois,Pittsburgh,0.651356813
+Illinois,Princeton,0.737386625
+Illinois,Providence,0.592940847
+Illinois,Purdue,0.274737443
+Illinois,San Diego St,0.41043171
+Illinois,UC Santa Barbara,0.680926633
+Illinois,SE Missouri St,0.803736617
+Illinois,St Mary's CA,0.410664936
+Illinois,TAM C. Christi,0.811354556
+Illinois,TCU,0.497226095
+Illinois,Tennessee,0.328828521
+Illinois,Texas,0.266405864
+Illinois,Texas A&M,0.527337307
+Illinois,TX Southern,0.870632381
+Illinois,UCLA,0.251927287
+Illinois,UNC Asheville,0.758052652
+Illinois,USC,0.600402906
+Illinois,Utah St,0.538786414
+Illinois,VCU,0.569124361
+Illinois,Vermont,0.750809263
+Illinois,Virginia,0.471623256
+Illinois,West Virginia,0.523826905
+Illinois,Xavier,0.459393579
+Indiana,Iona,0.616077008
+Indiana,Iowa,0.576721449
+Indiana,Iowa St,0.560223081
+Indiana,Kansas,0.348950637
+Indiana,Kansas St,0.597230973
+Indiana,Kennesaw,0.852456605
+Indiana,Kent,0.629122043
+Indiana,Kentucky,0.516039314
+Indiana,Lafayette,0.800991729
+Indiana,Marquette,0.501564109
+Indiana,Maryland,0.441989421
+Indiana,Memphis,0.42636286
+Indiana,Miami FL,0.377598345
+Indiana,Michigan St,0.530232985
+Indiana,Mississippi St,0.599798273
+Indiana,Missouri,0.600000042
+Indiana,Montana St,0.841279476
+Indiana,N Kentucky,0.849195261
+Indiana,NC State,0.603692099
+Indiana,Nevada,0.686842223
+Indiana,Northwestern,0.589488073
+Indiana,Oral Roberts,0.644089294
+Indiana,Penn St,0.60278799
+Indiana,Pittsburgh,0.687527802
+Indiana,Princeton,0.850566682
+Indiana,Providence,0.598495456
+Indiana,Purdue,0.29125624
+Indiana,San Diego St,0.393903625
+Indiana,UC Santa Barbara,0.785360945
+Indiana,SE Missouri St,0.883612495
+Indiana,St Mary's CA,0.359640546
+Indiana,TAM C. Christi,0.851503296
+Indiana,TCU,0.541993263
+Indiana,Tennessee,0.406488386
+Indiana,Texas,0.281486334
+Indiana,Texas A&M,0.603939024
+Indiana,TX Southern,0.881150074
+Indiana,UCLA,0.315657094
+Indiana,UNC Asheville,0.820415442
+Indiana,USC,0.611264392
+Indiana,Utah St,0.536387906
+Indiana,VCU,0.589165765
+Indiana,Vermont,0.802691454
+Indiana,Virginia,0.434544627
+Indiana,West Virginia,0.551987124
+Indiana,Xavier,0.451652711
+Iona,Iowa,0.336240909
+Iona,Iowa St,0.383175548
+Iona,Kansas,0.167073258
+Iona,Kansas St,0.260415272
+Iona,Kennesaw,0.706844488
+Iona,Kent,0.450904668
+Iona,Kentucky,0.421595299
+Iona,Lafayette,0.774421173
+Iona,Marquette,0.223579861
+Iona,Maryland,0.340502103
+Iona,Memphis,0.315833678
+Iona,Miami FL,0.331696223
+Iona,Michigan St,0.355530615
+Iona,Mississippi St,0.407220448
+Iona,Missouri,0.418782613
+Iona,Montana St,0.693845659
+Iona,N Kentucky,0.742568094
+Iona,NC State,0.429123524
+Iona,Nevada,0.628254188
+Iona,Northwestern,0.405006703
+Iona,Oral Roberts,0.472076202
+Iona,Penn St,0.433622479
+Iona,Pittsburgh,0.607752039
+Iona,Princeton,0.589609711
+Iona,Providence,0.447643457
+Iona,Purdue,0.158879748
+Iona,San Diego St,0.332015603
+Iona,UC Santa Barbara,0.585015495
+Iona,SE Missouri St,0.839099869
+Iona,St Mary's CA,0.251441817
+Iona,TAM C. Christi,0.760695391
+Iona,TCU,0.381276963
+Iona,Tennessee,0.186648432
+Iona,Texas,0.142393115
+Iona,Texas A&M,0.346372181
+Iona,TX Southern,0.891447384
+Iona,UCLA,0.150175975
+Iona,UNC Asheville,0.733062802
+Iona,USC,0.402970997
+Iona,Utah St,0.360495884
+Iona,VCU,0.580062305
+Iona,Vermont,0.628375056
+Iona,Virginia,0.278184929
+Iona,West Virginia,0.373435046
+Iona,Xavier,0.257805182
+Iowa,Iowa St,0.521987453
+Iowa,Kansas,0.230565702
+Iowa,Kansas St,0.402651061
+Iowa,Kennesaw,0.779782929
+Iowa,Kent,0.55259595
+Iowa,Kentucky,0.415240771
+Iowa,Lafayette,0.754634721
+Iowa,Marquette,0.362557811
+Iowa,Maryland,0.405259215
+Iowa,Memphis,0.361322297
+Iowa,Miami FL,0.351620881
+Iowa,Michigan St,0.490716857
+Iowa,Mississippi St,0.527600764
+Iowa,Missouri,0.473723294
+Iowa,Montana St,0.715011924
+Iowa,N Kentucky,0.819038195
+Iowa,NC State,0.48125942
+Iowa,Nevada,0.650498586
+Iowa,Northwestern,0.461626549
+Iowa,Oral Roberts,0.654075509
+Iowa,Penn St,0.521438966
+Iowa,Pittsburgh,0.632205749
+Iowa,Princeton,0.696094097
+Iowa,Providence,0.553868919
+Iowa,Purdue,0.232192562
+Iowa,San Diego St,0.366382095
+Iowa,UC Santa Barbara,0.723309405
+Iowa,SE Missouri St,0.809299131
+Iowa,St Mary's CA,0.353023012
+Iowa,TAM C. Christi,0.804710602
+Iowa,TCU,0.416218512
+Iowa,Tennessee,0.293952995
+Iowa,Texas,0.223423231
+Iowa,Texas A&M,0.497880774
+Iowa,TX Southern,0.827276782
+Iowa,UCLA,0.244621698
+Iowa,UNC Asheville,0.792173844
+Iowa,USC,0.547536674
+Iowa,Utah St,0.446691797
+Iowa,VCU,0.541964173
+Iowa,Vermont,0.718610634
+Iowa,Virginia,0.401221008
+Iowa,West Virginia,0.46313935
+Iowa,Xavier,0.354286556
+Iowa St,Kansas,0.222182802
+Iowa St,Kansas St,0.400507231
+Iowa St,Kennesaw,0.802657116
+Iowa St,Kent,0.609817834
+Iowa St,Kentucky,0.41304538
+Iowa St,Lafayette,0.754634721
+Iowa St,Marquette,0.420985684
+Iowa St,Maryland,0.410142392
+Iowa St,Memphis,0.387681283
+Iowa St,Miami FL,0.349220867
+Iowa St,Michigan St,0.463051141
+Iowa St,Mississippi St,0.542069326
+Iowa St,Missouri,0.482571094
+Iowa St,Montana St,0.723773644
+Iowa St,N Kentucky,0.863302922
+Iowa St,NC State,0.365686268
+Iowa St,Nevada,0.637710105
+Iowa St,Northwestern,0.51365032
+Iowa St,Oral Roberts,0.687322003
+Iowa St,Penn St,0.50571536
+Iowa St,Pittsburgh,0.635002738
+Iowa St,Princeton,0.736333057
+Iowa St,Providence,0.536775073
+Iowa St,Purdue,0.243574587
+Iowa St,San Diego St,0.351817017
+Iowa St,UC Santa Barbara,0.746496916
+Iowa St,SE Missouri St,0.852422
+Iowa St,St Mary's CA,0.342939609
+Iowa St,TAM C. Christi,0.851561385
+Iowa St,TCU,0.410225816
+Iowa St,Tennessee,0.282124135
+Iowa St,Texas,0.261131827
+Iowa St,Texas A&M,0.496621947
+Iowa St,TX Southern,0.868422613
+Iowa St,UCLA,0.283273414
+Iowa St,UNC Asheville,0.828937437
+Iowa St,USC,0.458295062
+Iowa St,Utah St,0.45460422
+Iowa St,VCU,0.567656248
+Iowa St,Vermont,0.748358669
+Iowa St,Virginia,0.340485359
+Iowa St,West Virginia,0.456584157
+Iowa St,Xavier,0.350241094
+Kansas,Kansas St,0.580199766
+Kansas,Kennesaw,0.841916188
+Kansas,Kent,0.709493536
+Kansas,Kentucky,0.601318998
+Kansas,Lafayette,0.853973998
+Kansas,Marquette,0.591073463
+Kansas,Maryland,0.65220417
+Kansas,Memphis,0.612410066
+Kansas,Miami FL,0.603198322
+Kansas,Michigan St,0.70539144
+Kansas,Mississippi St,0.745058323
+Kansas,Missouri,0.666388425
+Kansas,Montana St,0.839040287
+Kansas,N Kentucky,0.863030081
+Kansas,NC State,0.743457987
+Kansas,Nevada,0.800085284
+Kansas,Northwestern,0.706818638
+Kansas,Oral Roberts,0.689618444
+Kansas,Penn St,0.762456722
+Kansas,Pittsburgh,0.811914007
+Kansas,Princeton,0.83089274
+Kansas,Providence,0.803616793
+Kansas,Purdue,0.474419146
+Kansas,San Diego St,0.533743023
+Kansas,UC Santa Barbara,0.851988559
+Kansas,SE Missouri St,0.88710805
+Kansas,St Mary's CA,0.504504061
+Kansas,TAM C. Christi,0.857824878
+Kansas,TCU,0.592405376
+Kansas,Tennessee,0.480368793
+Kansas,Texas,0.438259092
+Kansas,Texas A&M,0.64241941
+Kansas,TX Southern,0.918094027
+Kansas,UCLA,0.42566799
+Kansas,UNC Asheville,0.8615647
+Kansas,USC,0.653851811
+Kansas,Utah St,0.617152221
+Kansas,VCU,0.715705958
+Kansas,Vermont,0.830351311
+Kansas,Virginia,0.644101455
+Kansas,West Virginia,0.654453039
+Kansas,Xavier,0.621331353
+Kansas St,Kennesaw,0.862788108
+Kansas St,Kent,0.597389622
+Kansas St,Kentucky,0.438140567
+Kansas St,Lafayette,0.804637142
+Kansas St,Marquette,0.34772088
+Kansas St,Maryland,0.339112067
+Kansas St,Memphis,0.375602905
+Kansas St,Miami FL,0.39785298
+Kansas St,Michigan St,0.45950382
+Kansas St,Mississippi St,0.475624041
+Kansas St,Missouri,0.457584388
+Kansas St,Montana St,0.812397484
+Kansas St,N Kentucky,0.842323474
+Kansas St,NC State,0.555691965
+Kansas St,Nevada,0.678589473
+Kansas St,Northwestern,0.458021852
+Kansas St,Oral Roberts,0.570823355
+Kansas St,Penn St,0.474883474
+Kansas St,Pittsburgh,0.647965778
+Kansas St,Princeton,0.792333185
+Kansas St,Providence,0.532201641
+Kansas St,Purdue,0.254888048
+Kansas St,San Diego St,0.362856404
+Kansas St,UC Santa Barbara,0.753454519
+Kansas St,SE Missouri St,0.88710805
+Kansas St,St Mary's CA,0.359574359
+Kansas St,TAM C. Christi,0.835744944
+Kansas St,TCU,0.375305873
+Kansas St,Tennessee,0.328126849
+Kansas St,Texas,0.268408699
+Kansas St,Texas A&M,0.533608732
+Kansas St,TX Southern,0.912353772
+Kansas St,UCLA,0.294933631
+Kansas St,UNC Asheville,0.863223066
+Kansas St,USC,0.576001921
+Kansas St,Utah St,0.434585433
+Kansas St,VCU,0.587806592
+Kansas St,Vermont,0.7974952
+Kansas St,Virginia,0.417673665
+Kansas St,West Virginia,0.507907135
+Kansas St,Xavier,0.411064784
+Kennesaw,Kent,0.2632212
+Kennesaw,Kentucky,0.166771961
+Kennesaw,Lafayette,0.649756066
+Kennesaw,Marquette,0.136301286
+Kennesaw,Maryland,0.19362779
+Kennesaw,Memphis,0.185853902
+Kennesaw,Miami FL,0.139039626
+Kennesaw,Michigan St,0.264006613
+Kennesaw,Mississippi St,0.234338171
+Kennesaw,Missouri,0.208797859
+Kennesaw,Montana St,0.341801799
+Kennesaw,N Kentucky,0.534436439
+Kennesaw,NC State,0.238661368
+Kennesaw,Nevada,0.251853186
+Kennesaw,Northwestern,0.170717353
+Kennesaw,Oral Roberts,0.22898832
+Kennesaw,Penn St,0.238182405
+Kennesaw,Pittsburgh,0.276871263
+Kennesaw,Princeton,0.36879102
+Kennesaw,Providence,0.199348011
+Kennesaw,Purdue,0.116379076
+Kennesaw,San Diego St,0.139511332
+Kennesaw,UC Santa Barbara,0.322053147
+Kennesaw,SE Missouri St,0.668359891
+Kennesaw,St Mary's CA,0.13225736
+Kennesaw,TAM C. Christi,0.476346653
+Kennesaw,TCU,0.174572721
+Kennesaw,Tennessee,0.130635795
+Kennesaw,Texas,0.129859605
+Kennesaw,Texas A&M,0.169834508
+Kennesaw,TX Southern,0.807546884
+Kennesaw,UCLA,0.117060404
+Kennesaw,UNC Asheville,0.410141181
+Kennesaw,USC,0.218136237
+Kennesaw,Utah St,0.200829536
+Kennesaw,VCU,0.222137766
+Kennesaw,Vermont,0.328561922
+Kennesaw,Virginia,0.139039626
+Kennesaw,West Virginia,0.21316691
+Kennesaw,Xavier,0.127910578
+Kent,Kentucky,0.327449198
+Kent,Lafayette,0.774421173
+Kent,Marquette,0.214784263
+Kent,Maryland,0.278454185
+Kent,Memphis,0.256076681
+Kent,Miami FL,0.269930999
+Kent,Michigan St,0.359378222
+Kent,Mississippi St,0.388051177
+Kent,Missouri,0.351659562
+Kent,Montana St,0.631035928
+Kent,N Kentucky,0.751633978
+Kent,NC State,0.402998424
+Kent,Nevada,0.599044854
+Kent,Northwestern,0.345117742
+Kent,Oral Roberts,0.462239543
+Kent,Penn St,0.384297073
+Kent,Pittsburgh,0.598919776
+Kent,Princeton,0.585348533
+Kent,Providence,0.404012064
+Kent,Purdue,0.147171146
+Kent,San Diego St,0.244776177
+Kent,UC Santa Barbara,0.596127236
+Kent,SE Missouri St,0.786552531
+Kent,St Mary's CA,0.22568006
+Kent,TAM C. Christi,0.734449912
+Kent,TCU,0.3024688
+Kent,Tennessee,0.245223889
+Kent,Texas,0.13160872
+Kent,Texas A&M,0.304776293
+Kent,TX Southern,0.891447384
+Kent,UCLA,0.146811523
+Kent,UNC Asheville,0.719954106
+Kent,USC,0.468990307
+Kent,Utah St,0.308284176
+Kent,VCU,0.522728277
+Kent,Vermont,0.659010513
+Kent,Virginia,0.21933972
+Kent,West Virginia,0.363048034
+Kent,Xavier,0.202475203
+Kentucky,Lafayette,0.798988606
+Kentucky,Marquette,0.487628266
+Kentucky,Maryland,0.550565105
+Kentucky,Memphis,0.361168062
+Kentucky,Miami FL,0.487740953
+Kentucky,Michigan St,0.492760777
+Kentucky,Mississippi St,0.512754922
+Kentucky,Missouri,0.562466817
+Kentucky,Montana St,0.777874229
+Kentucky,N Kentucky,0.858318043
+Kentucky,NC State,0.610976864
+Kentucky,Nevada,0.685150997
+Kentucky,Northwestern,0.570880077
+Kentucky,Oral Roberts,0.641467744
+Kentucky,Penn St,0.531952914
+Kentucky,Pittsburgh,0.658144167
+Kentucky,Princeton,0.825005861
+Kentucky,Providence,0.55006658
+Kentucky,Purdue,0.274367115
+Kentucky,San Diego St,0.402147894
+Kentucky,UC Santa Barbara,0.727598341
+Kentucky,SE Missouri St,0.883957499
+Kentucky,St Mary's CA,0.345556934
+Kentucky,TAM C. Christi,0.850940853
+Kentucky,TCU,0.50399684
+Kentucky,Tennessee,0.388665686
+Kentucky,Texas,0.289469928
+Kentucky,Texas A&M,0.573297802
+Kentucky,TX Southern,0.892443051
+Kentucky,UCLA,0.351189083
+Kentucky,UNC Asheville,0.800362787
+Kentucky,USC,0.584133204
+Kentucky,Utah St,0.434930705
+Kentucky,VCU,0.617610158
+Kentucky,Vermont,0.769824829
+Kentucky,Virginia,0.393796624
+Kentucky,West Virginia,0.506608309
+Kentucky,Xavier,0.427749853
+Lafayette,Marquette,0.128871238
+Lafayette,Maryland,0.178881465
+Lafayette,Memphis,0.178402434
+Lafayette,Miami FL,0.20368751
+Lafayette,Michigan St,0.203357366
+Lafayette,Mississippi St,0.205717819
+Lafayette,Missouri,0.204839142
+Lafayette,Montana St,0.300263049
+Lafayette,N Kentucky,0.300581366
+Lafayette,NC State,0.206093239
+Lafayette,Nevada,0.243712147
+Lafayette,Northwestern,0.204680678
+Lafayette,Oral Roberts,0.206765677
+Lafayette,Penn St,0.211904031
+Lafayette,Pittsburgh,0.24529916
+Lafayette,Princeton,0.304092105
+Lafayette,Providence,0.205512093
+Lafayette,Purdue,0.128273028
+Lafayette,San Diego St,0.150672221
+Lafayette,UC Santa Barbara,0.302389449
+Lafayette,SE Missouri St,0.413944451
+Lafayette,St Mary's CA,0.128273028
+Lafayette,TAM C. Christi,0.356211768
+Lafayette,TCU,0.151637405
+Lafayette,Tennessee,0.128273028
+Lafayette,Texas,0.128273028
+Lafayette,Texas A&M,0.151904466
+Lafayette,TX Southern,0.55813523
+Lafayette,UCLA,0.128273028
+Lafayette,UNC Asheville,0.321753627
+Lafayette,USC,0.205123612
+Lafayette,Utah St,0.175031176
+Lafayette,VCU,0.177173752
+Lafayette,Vermont,0.302389449
+Lafayette,Virginia,0.20368751
+Lafayette,West Virginia,0.260709748
+Lafayette,Xavier,0.178402434
+Marquette,Maryland,0.502596138
+Marquette,Memphis,0.41060516
+Marquette,Miami FL,0.401872968
+Marquette,Michigan St,0.539245493
+Marquette,Mississippi St,0.579953673
+Marquette,Missouri,0.493405332
+Marquette,Montana St,0.846203916
+Marquette,N Kentucky,0.886268836
+Marquette,NC State,0.58914738
+Marquette,Nevada,0.762796112
+Marquette,Northwestern,0.546219079
+Marquette,Oral Roberts,0.684827696
+Marquette,Penn St,0.582530483
+Marquette,Pittsburgh,0.737695521
+Marquette,Princeton,0.858388845
+Marquette,Providence,0.625998099
+Marquette,Purdue,0.346718071
+Marquette,San Diego St,0.417414319
+Marquette,UC Santa Barbara,0.826618329
+Marquette,SE Missouri St,0.908161115
+Marquette,St Mary's CA,0.365072431
+Marquette,TAM C. Christi,0.8639622
+Marquette,TCU,0.479946558
+Marquette,Tennessee,0.468032924
+Marquette,Texas,0.307533995
+Marquette,Texas A&M,0.473647319
+Marquette,TX Southern,0.928372742
+Marquette,UCLA,0.372112817
+Marquette,UNC Asheville,0.85943645
+Marquette,USC,0.585229486
+Marquette,Utah St,0.459157191
+Marquette,VCU,0.71568028
+Marquette,Vermont,0.865345947
+Marquette,Virginia,0.377523021
+Marquette,West Virginia,0.543257268
+Marquette,Xavier,0.38024752
+Maryland,Memphis,0.360043098
+Maryland,Miami FL,0.404665144
+Maryland,Michigan St,0.454592503
+Maryland,Mississippi St,0.545231134
+Maryland,Missouri,0.498154324
+Maryland,Montana St,0.740451131
+Maryland,N Kentucky,0.816224939
+Maryland,NC State,0.586142634
+Maryland,Nevada,0.673639039
+Maryland,Northwestern,0.576628062
+Maryland,Oral Roberts,0.58325989
+Maryland,Penn St,0.537939399
+Maryland,Pittsburgh,0.656473739
+Maryland,Princeton,0.741037993
+Maryland,Providence,0.584125028
+Maryland,Purdue,0.241166275
+Maryland,San Diego St,0.398690296
+Maryland,UC Santa Barbara,0.715064405
+Maryland,SE Missouri St,0.845248648
+Maryland,St Mary's CA,0.371414031
+Maryland,TAM C. Christi,0.805744993
+Maryland,TCU,0.464671007
+Maryland,Tennessee,0.359983018
+Maryland,Texas,0.231813688
+Maryland,Texas A&M,0.505001844
+Maryland,TX Southern,0.856590728
+Maryland,UCLA,0.259950027
+Maryland,UNC Asheville,0.787221801
+Maryland,USC,0.576122497
+Maryland,Utah St,0.418472471
+Maryland,VCU,0.531923676
+Maryland,Vermont,0.740409252
+Maryland,Virginia,0.451687394
+Maryland,West Virginia,0.475810922
+Maryland,Xavier,0.375331099
+Memphis,Miami FL,0.497695797
+Memphis,Michigan St,0.544755056
+Memphis,Mississippi St,0.579476822
+Memphis,Missouri,0.563180531
+Memphis,Montana St,0.7273456
+Memphis,N Kentucky,0.825152753
+Memphis,NC State,0.556635611
+Memphis,Nevada,0.632007869
+Memphis,Northwestern,0.562941244
+Memphis,Oral Roberts,0.555847383
+Memphis,Penn St,0.583754273
+Memphis,Pittsburgh,0.595727087
+Memphis,Princeton,0.713037417
+Memphis,Providence,0.556681273
+Memphis,Purdue,0.301675911
+Memphis,San Diego St,0.415919716
+Memphis,UC Santa Barbara,0.73279257
+Memphis,SE Missouri St,0.843885681
+Memphis,St Mary's CA,0.411945474
+Memphis,TAM C. Christi,0.799744022
+Memphis,TCU,0.535385806
+Memphis,Tennessee,0.336283041
+Memphis,Texas,0.285342325
+Memphis,Texas A&M,0.569428987
+Memphis,TX Southern,0.903899461
+Memphis,UCLA,0.314636436
+Memphis,UNC Asheville,0.791814602
+Memphis,USC,0.574394998
+Memphis,Utah St,0.510093006
+Memphis,VCU,0.575321243
+Memphis,Vermont,0.734353235
+Memphis,Virginia,0.473832115
+Memphis,West Virginia,0.577944278
+Memphis,Xavier,0.413110134
+Miami FL,Michigan St,0.492234262
+Miami FL,Mississippi St,0.60520343
+Miami FL,Missouri,0.514488824
+Miami FL,Montana St,0.75951368
+Miami FL,N Kentucky,0.826709753
+Miami FL,NC State,0.577474462
+Miami FL,Nevada,0.634994995
+Miami FL,Northwestern,0.624228051
+Miami FL,Oral Roberts,0.595200107
+Miami FL,Penn St,0.555777816
+Miami FL,Pittsburgh,0.631715279
+Miami FL,Princeton,0.775167669
+Miami FL,Providence,0.645224785
+Miami FL,Purdue,0.332952147
+Miami FL,San Diego St,0.371836167
+Miami FL,UC Santa Barbara,0.754460979
+Miami FL,SE Missouri St,0.884506644
+Miami FL,St Mary's CA,0.337110959
+Miami FL,TAM C. Christi,0.860995625
+Miami FL,TCU,0.53608439
+Miami FL,Tennessee,0.332467275
+Miami FL,Texas,0.2889253
+Miami FL,Texas A&M,0.509175581
+Miami FL,TX Southern,0.918094027
+Miami FL,UCLA,0.298485109
+Miami FL,UNC Asheville,0.833143719
+Miami FL,USC,0.539513065
+Miami FL,Utah St,0.450530875
+Miami FL,VCU,0.577759072
+Miami FL,Vermont,0.768601767
+Miami FL,Virginia,0.435844426
+Miami FL,West Virginia,0.492227953
+Miami FL,Xavier,0.418696329
+Michigan St,Mississippi St,0.48293844
+Michigan St,Missouri,0.420148485
+Michigan St,Montana St,0.633285567
+Michigan St,N Kentucky,0.821566874
+Michigan St,NC State,0.543876967
+Michigan St,Nevada,0.58722691
+Michigan St,Northwestern,0.527673698
+Michigan St,Oral Roberts,0.550316107
+Michigan St,Penn St,0.511366536
+Michigan St,Pittsburgh,0.586310398
+Michigan St,Princeton,0.683186855
+Michigan St,Providence,0.546899494
+Michigan St,Purdue,0.226735866
+Michigan St,San Diego St,0.297010018
+Michigan St,UC Santa Barbara,0.674630547
+Michigan St,SE Missouri St,0.810613205
+Michigan St,St Mary's CA,0.317889038
+Michigan St,TAM C. Christi,0.722215116
+Michigan St,TCU,0.502012078
+Michigan St,Tennessee,0.327181988
+Michigan St,Texas,0.221889656
+Michigan St,Texas A&M,0.497987886
+Michigan St,TX Southern,0.863918208
+Michigan St,UCLA,0.227166194
+Michigan St,UNC Asheville,0.691965286
+Michigan St,USC,0.536969761
+Michigan St,Utah St,0.442215208
+Michigan St,VCU,0.512322027
+Michigan St,Vermont,0.692750721
+Michigan St,Virginia,0.365421269
+Michigan St,West Virginia,0.528825491
+Michigan St,Xavier,0.401031455
+Mississippi St,Missouri,0.506099946
+Mississippi St,Montana St,0.690862547
+Mississippi St,N Kentucky,0.726625095
+Mississippi St,NC State,0.471784384
+Mississippi St,Nevada,0.63039228
+Mississippi St,Northwestern,0.534095229
+Mississippi St,Oral Roberts,0.552282362
+Mississippi St,Penn St,0.434046517
+Mississippi St,Pittsburgh,0.585243266
+Mississippi St,Princeton,0.674322163
+Mississippi St,Providence,0.515163812
+Mississippi St,Purdue,0.209823035
+Mississippi St,San Diego St,0.275680543
+Mississippi St,UC Santa Barbara,0.63570346
+Mississippi St,SE Missouri St,0.794503753
+Mississippi St,St Mary's CA,0.279016679
+Mississippi St,TAM C. Christi,0.781672114
+Mississippi St,TCU,0.303518231
+Mississippi St,Tennessee,0.243136884
+Mississippi St,Texas,0.142723318
+Mississippi St,Texas A&M,0.414647215
+Mississippi St,TX Southern,0.814830185
+Mississippi St,UCLA,0.156858181
+Mississippi St,UNC Asheville,0.712604538
+Mississippi St,USC,0.463294756
+Mississippi St,Utah St,0.400919838
+Mississippi St,VCU,0.543937271
+Mississippi St,Vermont,0.679208529
+Mississippi St,Virginia,0.294441099
+Mississippi St,West Virginia,0.382174802
+Mississippi St,Xavier,0.256371044
+Missouri,Montana St,0.692902864
+Missouri,N Kentucky,0.760460524
+Missouri,NC State,0.493992996
+Missouri,Nevada,0.584842421
+Missouri,Northwestern,0.497038578
+Missouri,Oral Roberts,0.460663991
+Missouri,Penn St,0.437806542
+Missouri,Pittsburgh,0.551949273
+Missouri,Princeton,0.671710211
+Missouri,Providence,0.461153406
+Missouri,Purdue,0.190503446
+Missouri,San Diego St,0.284495465
+Missouri,UC Santa Barbara,0.663650254
+Missouri,SE Missouri St,0.841332453
+Missouri,St Mary's CA,0.270143509
+Missouri,TAM C. Christi,0.814458863
+Missouri,TCU,0.316122315
+Missouri,Tennessee,0.284303269
+Missouri,Texas,0.186389866
+Missouri,Texas A&M,0.387167128
+Missouri,TX Southern,0.893625784
+Missouri,UCLA,0.217413399
+Missouri,UNC Asheville,0.746660972
+Missouri,USC,0.461887487
+Missouri,Utah St,0.382968668
+Missouri,VCU,0.548466239
+Missouri,Vermont,0.689779694
+Missouri,Virginia,0.359337446
+Missouri,West Virginia,0.384449157
+Missouri,Xavier,0.346306692
+Montana St,N Kentucky,0.558576592
+Montana St,NC State,0.285732363
+Montana St,Nevada,0.329610719
+Montana St,Northwestern,0.242176957
+Montana St,Oral Roberts,0.274519797
+Montana St,Penn St,0.295471604
+Montana St,Pittsburgh,0.28105441
+Montana St,Princeton,0.357826542
+Montana St,Providence,0.275833003
+Montana St,Purdue,0.128426236
+Montana St,San Diego St,0.135114196
+Montana St,UC Santa Barbara,0.370303146
+Montana St,SE Missouri St,0.739299669
+Montana St,St Mary's CA,0.138079924
+Montana St,TAM C. Christi,0.564980124
+Montana St,TCU,0.168117847
+Montana St,Tennessee,0.136642911
+Montana St,Texas,0.129860322
+Montana St,Texas A&M,0.189127175
+Montana St,TX Southern,0.816412485
+Montana St,UCLA,0.129300916
+Montana St,UNC Asheville,0.586739181
+Montana St,USC,0.325755439
+Montana St,Utah St,0.268151701
+Montana St,VCU,0.272685822
+Montana St,Vermont,0.508827612
+Montana St,Virginia,0.176748125
+Montana St,West Virginia,0.249341546
+Montana St,Xavier,0.15249568
+N Kentucky,NC State,0.194453955
+N Kentucky,Nevada,0.259857967
+N Kentucky,Northwestern,0.143270428
+N Kentucky,Oral Roberts,0.241613153
+N Kentucky,Penn St,0.180433504
+N Kentucky,Pittsburgh,0.260430654
+N Kentucky,Princeton,0.333877022
+N Kentucky,Providence,0.185853902
+N Kentucky,Purdue,0.112729857
+N Kentucky,San Diego St,0.118568628
+N Kentucky,UC Santa Barbara,0.287575772
+N Kentucky,SE Missouri St,0.710254345
+N Kentucky,St Mary's CA,0.120766803
+N Kentucky,TAM C. Christi,0.410311544
+N Kentucky,TCU,0.127910578
+N Kentucky,Tennessee,0.111190901
+N Kentucky,Texas,0.128594523
+N Kentucky,Texas A&M,0.120794911
+N Kentucky,TX Southern,0.759878882
+N Kentucky,UCLA,0.113240948
+N Kentucky,UNC Asheville,0.349947716
+N Kentucky,USC,0.191202287
+N Kentucky,Utah St,0.173798384
+N Kentucky,VCU,0.218290339
+N Kentucky,Vermont,0.316976141
+N Kentucky,Virginia,0.119837454
+N Kentucky,West Virginia,0.182984604
+N Kentucky,Xavier,0.118734369
+NC State,Nevada,0.598308062
+NC State,Northwestern,0.430081888
+NC State,Oral Roberts,0.501470392
+NC State,Penn St,0.437751088
+NC State,Pittsburgh,0.633988485
+NC State,Princeton,0.679401183
+NC State,Providence,0.535339523
+NC State,Purdue,0.153907866
+NC State,San Diego St,0.266133282
+NC State,UC Santa Barbara,0.602095972
+NC State,SE Missouri St,0.809962955
+NC State,St Mary's CA,0.28181886
+NC State,TAM C. Christi,0.735359225
+NC State,TCU,0.327813337
+NC State,Tennessee,0.230082145
+NC State,Texas,0.153647069
+NC State,Texas A&M,0.489499034
+NC State,TX Southern,0.860174701
+NC State,UCLA,0.164871455
+NC State,UNC Asheville,0.721467439
+NC State,USC,0.459094193
+NC State,Utah St,0.356966152
+NC State,VCU,0.553860696
+NC State,Vermont,0.663914977
+NC State,Virginia,0.327802779
+NC State,West Virginia,0.408708325
+NC State,Xavier,0.293587679
+Nevada,Northwestern,0.332155999
+Nevada,Oral Roberts,0.391432771
+Nevada,Penn St,0.311972446
+Nevada,Pittsburgh,0.483476884
+Nevada,Princeton,0.549595321
+Nevada,Providence,0.2976784
+Nevada,Purdue,0.116995241
+Nevada,San Diego St,0.249157877
+Nevada,UC Santa Barbara,0.366425622
+Nevada,SE Missouri St,0.774978831
+Nevada,St Mary's CA,0.220026134
+Nevada,TAM C. Christi,0.60410664
+Nevada,TCU,0.262923099
+Nevada,Tennessee,0.240932883
+Nevada,Texas,0.133455227
+Nevada,Texas A&M,0.304582237
+Nevada,TX Southern,0.85026759
+Nevada,UCLA,0.118966637
+Nevada,UNC Asheville,0.625532824
+Nevada,USC,0.320644716
+Nevada,Utah St,0.305823617
+Nevada,VCU,0.470912071
+Nevada,Vermont,0.574063672
+Nevada,Virginia,0.247849993
+Nevada,West Virginia,0.252560213
+Nevada,Xavier,0.240715718
+Northwestern,Oral Roberts,0.506273094
+Northwestern,Penn St,0.425144009
+Northwestern,Pittsburgh,0.632085695
+Northwestern,Princeton,0.693927611
+Northwestern,Providence,0.463356675
+Northwestern,Purdue,0.208378178
+Northwestern,San Diego St,0.265673152
+Northwestern,UC Santa Barbara,0.591907913
+Northwestern,SE Missouri St,0.844811736
+Northwestern,St Mary's CA,0.266219597
+Northwestern,TAM C. Christi,0.822204479
+Northwestern,TCU,0.325530213
+Northwestern,Tennessee,0.298993975
+Northwestern,Texas,0.183342849
+Northwestern,Texas A&M,0.413836927
+Northwestern,TX Southern,0.861468198
+Northwestern,UCLA,0.20811787
+Northwestern,UNC Asheville,0.722406409
+Northwestern,USC,0.555937741
+Northwestern,Utah St,0.369336985
+Northwestern,VCU,0.539724594
+Northwestern,Vermont,0.702830904
+Northwestern,Virginia,0.378457456
+Northwestern,West Virginia,0.356780432
+Northwestern,Xavier,0.397441394
+Oral Roberts,Penn St,0.366364052
+Oral Roberts,Pittsburgh,0.562841679
+Oral Roberts,Princeton,0.665438221
+Oral Roberts,Providence,0.379086935
+Oral Roberts,Purdue,0.135809237
+Oral Roberts,San Diego St,0.30230817
+Oral Roberts,UC Santa Barbara,0.528446003
+Oral Roberts,SE Missouri St,0.889997138
+Oral Roberts,St Mary's CA,0.241904319
+Oral Roberts,TAM C. Christi,0.779170841
+Oral Roberts,TCU,0.306801902
+Oral Roberts,Tennessee,0.34883244
+Oral Roberts,Texas,0.130216726
+Oral Roberts,Texas A&M,0.372768164
+Oral Roberts,TX Southern,0.889997138
+Oral Roberts,UCLA,0.145928205
+Oral Roberts,UNC Asheville,0.680345269
+Oral Roberts,USC,0.398067662
+Oral Roberts,Utah St,0.341899001
+Oral Roberts,VCU,0.474181718
+Oral Roberts,Vermont,0.695277567
+Oral Roberts,Virginia,0.287399935
+Oral Roberts,West Virginia,0.357362311
+Oral Roberts,Xavier,0.328899985
+Penn St,Pittsburgh,0.577313362
+Penn St,Princeton,0.619516549
+Penn St,Providence,0.536315435
+Penn St,Purdue,0.185447753
+Penn St,San Diego St,0.276305884
+Penn St,UC Santa Barbara,0.641646205
+Penn St,SE Missouri St,0.79815416
+Penn St,St Mary's CA,0.306828384
+Penn St,TAM C. Christi,0.718138476
+Penn St,TCU,0.344880326
+Penn St,Tennessee,0.295391939
+Penn St,Texas,0.220185461
+Penn St,Texas A&M,0.420931984
+Penn St,TX Southern,0.8403082
+Penn St,UCLA,0.187713415
+Penn St,UNC Asheville,0.694069218
+Penn St,USC,0.472196631
+Penn St,Utah St,0.472858965
+Penn St,VCU,0.541777697
+Penn St,Vermont,0.616964303
+Penn St,Virginia,0.362351727
+Penn St,West Virginia,0.377306336
+Penn St,Xavier,0.325453448
+Pittsburgh,Princeton,0.618552308
+Pittsburgh,Providence,0.313621987
+Pittsburgh,Purdue,0.122668421
+Pittsburgh,San Diego St,0.232944566
+Pittsburgh,UC Santa Barbara,0.432893468
+Pittsburgh,SE Missouri St,0.795983721
+Pittsburgh,St Mary's CA,0.215734358
+Pittsburgh,TAM C. Christi,0.696374384
+Pittsburgh,TCU,0.248085944
+Pittsburgh,Tennessee,0.239365159
+Pittsburgh,Texas,0.116740084
+Pittsburgh,Texas A&M,0.304764857
+Pittsburgh,TX Southern,0.782639178
+Pittsburgh,UCLA,0.117413457
+Pittsburgh,UNC Asheville,0.651234767
+Pittsburgh,USC,0.349092596
+Pittsburgh,Utah St,0.288953468
+Pittsburgh,VCU,0.37065409
+Pittsburgh,Vermont,0.613555551
+Pittsburgh,Virginia,0.250531246
+Pittsburgh,West Virginia,0.284690902
+Pittsburgh,Xavier,0.237810839
+Princeton,Providence,0.235277912
+Princeton,Purdue,0.125053854
+Princeton,San Diego St,0.124566399
+Princeton,UC Santa Barbara,0.405283371
+Princeton,SE Missouri St,0.777392724
+Princeton,St Mary's CA,0.140054822
+Princeton,TAM C. Christi,0.64061252
+Princeton,TCU,0.137218063
+Princeton,Tennessee,0.12159451
+Princeton,Texas,0.137181336
+Princeton,Texas A&M,0.179608905
+Princeton,TX Southern,0.790349326
+Princeton,UCLA,0.119587036
+Princeton,UNC Asheville,0.646497553
+Princeton,USC,0.239774339
+Princeton,Utah St,0.199373239
+Princeton,VCU,0.291834236
+Princeton,Vermont,0.604019646
+Princeton,Virginia,0.150859977
+Princeton,West Virginia,0.238572007
+Princeton,Xavier,0.140905177
+Providence,Purdue,0.167814937
+Providence,San Diego St,0.252014196
+Providence,UC Santa Barbara,0.642785602
+Providence,SE Missouri St,0.814578246
+Providence,St Mary's CA,0.259520148
+Providence,TAM C. Christi,0.767824356
+Providence,TCU,0.364161809
+Providence,Tennessee,0.301880102
+Providence,Texas,0.17165159
+Providence,Texas A&M,0.404252384
+Providence,TX Southern,0.825347774
+Providence,UCLA,0.170678402
+Providence,UNC Asheville,0.687064228
+Providence,USC,0.432457757
+Providence,Utah St,0.365521591
+Providence,VCU,0.515192182
+Providence,Vermont,0.688528493
+Providence,Virginia,0.320778632
+Providence,West Virginia,0.406141609
+Providence,Xavier,0.379462904
+Purdue,San Diego St,0.50509219
+Purdue,UC Santa Barbara,0.846107642
+Purdue,SE Missouri St,0.895327013
+Purdue,St Mary's CA,0.438442108
+Purdue,TAM C. Christi,0.867411327
+Purdue,TCU,0.629730444
+Purdue,Tennessee,0.49620257
+Purdue,Texas,0.395406347
+Purdue,Texas A&M,0.639306782
+Purdue,TX Southern,0.929200774
+Purdue,UCLA,0.394207098
+Purdue,UNC Asheville,0.867925459
+Purdue,USC,0.730378118
+Purdue,Utah St,0.642391953
+Purdue,VCU,0.777359705
+Purdue,Vermont,0.863788036
+Purdue,Virginia,0.551259748
+Purdue,West Virginia,0.710910755
+Purdue,Xavier,0.58261017
+San Diego St,UC Santa Barbara,0.777698764
+San Diego St,SE Missouri St,0.85374871
+San Diego St,St Mary's CA,0.440665491
+San Diego St,TAM C. Christi,0.840149775
+San Diego St,TCU,0.584538785
+San Diego St,Tennessee,0.45378848
+San Diego St,Texas,0.339473792
+San Diego St,Texas A&M,0.562323504
+San Diego St,TX Southern,0.918094027
+San Diego St,UCLA,0.350721425
+San Diego St,UNC Asheville,0.858138352
+San Diego St,USC,0.605367386
+San Diego St,Utah St,0.55760379
+San Diego St,VCU,0.644799854
+San Diego St,Vermont,0.802392477
+San Diego St,Virginia,0.487481476
+San Diego St,West Virginia,0.594218738
+San Diego St,Xavier,0.470265637
+SE Missouri St,St Mary's CA,0.112090785
+SE Missouri St,TAM C. Christi,0.297133714
+SE Missouri St,TCU,0.120550796
+SE Missouri St,Tennessee,0.097412741
+SE Missouri St,Texas,0.108815353
+SE Missouri St,Texas A&M,0.114546622
+SE Missouri St,TX Southern,0.633582045
+SE Missouri St,UCLA,0.075904083
+SE Missouri St,UNC Asheville,0.265699685
+SE Missouri St,USC,0.157747159
+SE Missouri St,Utah St,0.151657384
+SE Missouri St,VCU,0.153242359
+SE Missouri St,Vermont,0.190642218
+SE Missouri St,Virginia,0.129292419
+SE Missouri St,West Virginia,0.171942968
+SE Missouri St,Xavier,0.111754996
+St Mary's CA,TAM C. Christi,0.872088158
+St Mary's CA,TCU,0.62944735
+St Mary's CA,Tennessee,0.408988835
+St Mary's CA,Texas,0.346558213
+St Mary's CA,Texas A&M,0.589909583
+St Mary's CA,TX Southern,0.929200774
+St Mary's CA,UCLA,0.350643496
+St Mary's CA,UNC Asheville,0.8675287
+St Mary's CA,USC,0.559546257
+St Mary's CA,Utah St,0.593923588
+St Mary's CA,VCU,0.703827143
+St Mary's CA,Vermont,0.791486549
+St Mary's CA,Virginia,0.524001369
+St Mary's CA,West Virginia,0.640033025
+St Mary's CA,Xavier,0.487463666
+TAM C. Christi,TCU,0.13474308
+TAM C. Christi,Tennessee,0.130030207
+TAM C. Christi,Texas,0.114748862
+TAM C. Christi,Texas A&M,0.144328932
+TAM C. Christi,TX Southern,0.6732886
+TAM C. Christi,UCLA,0.112729857
+TAM C. Christi,UNC Asheville,0.341991323
+TAM C. Christi,USC,0.212811092
+TAM C. Christi,Utah St,0.166120256
+TAM C. Christi,VCU,0.219250473
+TAM C. Christi,Vermont,0.296842121
+TAM C. Christi,Virginia,0.130318692
+TAM C. Christi,West Virginia,0.187335037
+TAM C. Christi,Xavier,0.145002916
+TCU,Tennessee,0.389601042
+TCU,Texas,0.284741465
+TCU,Texas A&M,0.512644372
+TCU,TX Southern,0.892871268
+TCU,UCLA,0.285528291
+TCU,UNC Asheville,0.815190979
+TCU,USC,0.586756092
+TCU,Utah St,0.437275316
+TCU,VCU,0.577309502
+TCU,Vermont,0.768944529
+TCU,Virginia,0.385026248
+TCU,West Virginia,0.476967577
+TCU,Xavier,0.385403481
+Tennessee,Texas,0.488141645
+Tennessee,Texas A&M,0.638959981
+Tennessee,TX Southern,0.926724139
+Tennessee,UCLA,0.442785221
+Tennessee,UNC Asheville,0.851643935
+Tennessee,USC,0.684928601
+Tennessee,Utah St,0.598508008
+Tennessee,VCU,0.622416286
+Tennessee,Vermont,0.850753968
+Tennessee,Virginia,0.571528434
+Tennessee,West Virginia,0.634059146
+Tennessee,Xavier,0.584456399
+Texas,Texas A&M,0.639655945
+Texas,TX Southern,0.929200774
+Texas,UCLA,0.452516492
+Texas,UNC Asheville,0.869310491
+Texas,USC,0.722658066
+Texas,Utah St,0.698598069
+Texas,VCU,0.804041209
+Texas,Vermont,0.849042282
+Texas,Virginia,0.653579015
+Texas,West Virginia,0.700681129
+Texas,Xavier,0.624999897
+Texas A&M,TX Southern,0.900616603
+Texas A&M,UCLA,0.269366727
+Texas A&M,UNC Asheville,0.821107729
+Texas A&M,USC,0.438816536
+Texas A&M,Utah St,0.412572689
+Texas A&M,VCU,0.521340814
+Texas A&M,Vermont,0.713894779
+Texas A&M,Virginia,0.431709583
+Texas A&M,West Virginia,0.470951461
+Texas A&M,Xavier,0.44935223
+TX Southern,UCLA,0.075904083
+TX Southern,UNC Asheville,0.181955269
+TX Southern,USC,0.126468705
+TX Southern,Utah St,0.106901348
+TX Southern,VCU,0.128341018
+TX Southern,Vermont,0.132942408
+TX Southern,Virginia,0.075904083
+TX Southern,West Virginia,0.14970642
+TX Southern,Xavier,0.075904083
+UC Santa Barbara,SE Missouri St,0.769593451
+UC Santa Barbara,St Mary's CA,0.127910578
+UC Santa Barbara,TAM C. Christi,0.682962012
+UC Santa Barbara,TCU,0.247473547
+UC Santa Barbara,Tennessee,0.129310694
+UC Santa Barbara,Texas,0.134462252
+UC Santa Barbara,Texas A&M,0.176811684
+UC Santa Barbara,TX Southern,0.792549446
+UC Santa Barbara,UCLA,0.13030488
+UC Santa Barbara,UNC Asheville,0.651967025
+UC Santa Barbara,USC,0.309441346
+UC Santa Barbara,Utah St,0.256855607
+UC Santa Barbara,VCU,0.369855948
+UC Santa Barbara,Vermont,0.603400078
+UC Santa Barbara,Virginia,0.165394736
+UC Santa Barbara,West Virginia,0.192778607
+UC Santa Barbara,Xavier,0.13372828
+UCLA,UNC Asheville,0.866235661
+UCLA,USC,0.744353228
+UCLA,Utah St,0.645315978
+UCLA,VCU,0.791936084
+UCLA,Vermont,0.876252554
+UCLA,Virginia,0.617974135
+UCLA,West Virginia,0.712243958
+UCLA,Xavier,0.625274102
+UNC Asheville,USC,0.179398963
+UNC Asheville,Utah St,0.192438839
+UNC Asheville,VCU,0.22495853
+UNC Asheville,Vermont,0.327075978
+UNC Asheville,Virginia,0.130846745
+UNC Asheville,West Virginia,0.172417806
+UNC Asheville,Xavier,0.137516623
+USC,Utah St,0.389438115
+USC,VCU,0.522042883
+USC,Vermont,0.690319454
+USC,Virginia,0.35570013
+USC,West Virginia,0.41913731
+USC,Xavier,0.364469699
+Utah St,VCU,0.634234276
+Utah St,Vermont,0.699987737
+Utah St,Virginia,0.427348811
+Utah St,West Virginia,0.485442862
+Utah St,Xavier,0.422153541
+VCU,Vermont,0.647316704
+VCU,Virginia,0.273674519
+VCU,West Virginia,0.329986539
+VCU,Xavier,0.219297283
+Vermont,Virginia,0.188794557
+Vermont,West Virginia,0.231927018
+Vermont,Xavier,0.173933648
+Virginia,West Virginia,0.501590441
+Virginia,Xavier,0.435681633
+West Virginia,Xavier,0.357258866
