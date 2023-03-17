@@ -1,4 +1,8 @@
-# MarchMadness
-Repository for all of my March Madness (and maybe general CBB) work
+### Create or Activate environment
+conda create -n MarchMadness
 
-ReadMe in progress. My 2022 bracket model did not go that well, my model really hated UNC (like a lot).
+### Run conda activate
+conda activate MarchMadness
+
+### (Optional) Add env to Jupyter as a kernel
+python -m ipykernel install --user --name=MarchMadness
